@@ -20,13 +20,13 @@ To install **BuyBazzar**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AttigH/BuyBazzar-ecommerce-website.git
+sudo git clone https://github.com/AttigH/BuyBazzar.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AttigH/BuyBazzar-ecommerce-website.git
+git clone https://github.com/AttigH/BuyBazzar.git
 ```
 
 ## Contact
